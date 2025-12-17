@@ -4,5 +4,5 @@ li a {
 }
 
 body {
-    background: white url("images/fondo.jpg");
+    background: white url("/static/polls/images/fondo.jpg");
 }
